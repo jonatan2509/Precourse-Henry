@@ -1,2 +1,1 @@
-# Precourse-Henry
-Este es el repositorio de prueba del modulo 2 
+prueba de como crear un repositorio y clonarlo desde github al computador
